@@ -11,7 +11,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 - 基于 awesome-machine-learning 资源列表，我们将对各个资源项进行编译整理。
 - 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
   - 《[Apache OpenNLP：处理类似分词等常见任务的工具](http://hao.jobbole.com/apache-opennlp/)》
-  - 《[Mallet：NLP工具，支持文档分类、聚类、主题建模]》(http://hao.jobbole.com/mallet/)
+  - 《[Mallet：NLP工具，支持文档分类、聚类、主题建模](http://hao.jobbole.com/mallet/ )》
 
 * * *
 
