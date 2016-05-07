@@ -105,7 +105,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Stanford Topic Modeling Toolbox](http://nlp.stanford.edu/software/tmt/tmt-0.4/) —为社会科学家及其他希望分析数据集的人员提供的主题建模工具。
 *   [Twitter Text Java](https://github.com/twitter/twitter-text-java)—Java实现的推特文本处理库
 *   [MALLET](http://mallet.cs.umass.edu/) -—基于Java的统计自然语言处理、文档分类、聚类、主题建模、信息提取以及其他机器学习文本应用包。
-*   [OpenNLP](https://opennlp.apache.org/)—处理自然语言文本的机器学习工具包。
+*   [OpenNLP](http://hao.jobbole.com/apache-opennlp/)—处理自然语言文本的机器学习工具包。
 *   [LingPipe](http://alias-i.com/lingpipe/index.html) —使用计算机语言学处理文本的工具包。
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#general-purpose-machine-learning-3)通用机器学习
