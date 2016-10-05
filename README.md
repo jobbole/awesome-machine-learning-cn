@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[toolate](http://www.jobbole.com/members/toolate)、[冰斌](http://hao.jobbole.com/author/libing1209/)、[云中游](http://hao.jobbole.com/author/tonyaaron/)、You
+- 贡献者：[toolate](http://www.jobbole.com/members/toolate)、[冰斌](http://hao.jobbole.com/author/libing1209/)、[云中游](http://hao.jobbole.com/author/tonyaaron/)、[Daetalus](http://hao.jobbole.com/author/daetalus/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -332,7 +332,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 #### 计算机视觉
 
-*   SimpleCV：开源计算机视觉框架，可以访问如OpenCV等高性能计算机视觉库使用Python编写，可以在Mac、Windows以及Ubuntu上运行。[官网](http://simplecv.org/)。
+*   [SimpleCV](http://hao.jobbole.com/simplecv/)：开源计算机视觉框架，可以访问如OpenCV等高性能计算机视觉库使用Python编写，可以在Mac、Windows以及Ubuntu上运行。[官网](http://simplecv.org/)。
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#natural-language-processing-5)自然语言处理
 
