@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[toolate](http://www.jobbole.com/members/toolate)、You
+- 贡献者：[toolate](http://www.jobbole.com/members/toolate)、[冰斌](http://hao.jobbole.com/author/libing1209/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -52,7 +52,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#compute-vision)计算机视觉
 
-*   CCV：基于C语言/提供缓存/核心的机器视觉库，新颖的机器视觉库。[官网](https://github.com/liuliu/ccv)
+*   [CCV](http://hao.jobbole.com/ccv/)：基于C语言/提供缓存/核心的机器视觉库，新颖的机器视觉库。[官网](https://github.com/liuliu/ccv)
 *   OpenCV：它提供C++、C、Python、Java 以及 MATLAB接口。并支持Windows、Linux、Android 和 Mac OS操作系统。[官网](http://opencv.org/)
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#general-purpose-machine-learning)通用机器学习
