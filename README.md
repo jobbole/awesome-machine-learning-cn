@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[toolate](http://www.jobbole.com/members/toolate)、[冰斌](http://hao.jobbole.com/author/libing1209/)、[云中游](http://hao.jobbole.com/author/tonyaaron/)、[Daetalus](http://hao.jobbole.com/author/daetalus/)、You
+- 贡献者：[toolate](http://www.jobbole.com/members/toolate)、[冰斌](http://hao.jobbole.com/author/libing1209/)、[云中游](http://hao.jobbole.com/author/tonyaaron/)、[Daetalus](http://hao.jobbole.com/author/daetalus/)、[赵叶宇](http://www.jobbole.com/members/nelsonzhao/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -377,7 +377,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Numba：Python的低级虚拟机JIT编译器，Cython and NumPy的开发者编写，供科学计算使用。[官网](http://numba.pydata.org/)
 *   NetworkX：为复杂网络使用的高效软件。[官网](https://networkx.github.io/)
 *   Pandas：这个库提供了高性能、易用的数据结构及数据分析工具。[官网](http://pandas.pydata.org/)
-*   Open Mining：Python中的商业智能工具（Pandas web接口）。[官网](https://github.com/avelino/mining)
+*   [Open Mining](http://hao.jobbole.com/open-mining/)：Python中的商业智能工具（Pandas web接口）。[官网](https://github.com/avelino/mining)
 *   PyMC：MCMC采样工具包。[官网](https://github.com/pymc-devs/pymc)
 *   zipline：Python的算法交易库。[官网](https://github.com/quantopian/zipline)
 *   PyDy：全名Python Dynamics，协助基于NumPy、SciPy、IPython以及 matplotlib的动态建模工作流。[官网](https://pydy.org/)
