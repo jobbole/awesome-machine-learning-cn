@@ -333,6 +333,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 #### 计算机视觉
 
 *   [SimpleCV](http://hao.jobbole.com/simplecv/)：开源计算机视觉框架，可以访问如OpenCV等高性能计算机视觉库使用Python编写，可以在Mac、Windows以及Ubuntu上运行。[官网](http://simplecv.org/)。
+*   [Scikit-Image](https://github.com/scikit-image/scikit-image)：Python中的图像处理算法的集合。[官网](http://scikit-image.org/)。
+*   [Vigranumpy](https://github.com/ukoethe/vigra)：计算机视觉库VIGRA C ++的Python绑定。
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#natural-language-processing-5)自然语言处理
 
