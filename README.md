@@ -346,6 +346,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   loso：另一个中文断词库。[官网](https://github.com/victorlin/loso)
 *   genius：基于条件随机域的中文断词库。[官网](https://github.com/duanhongyi/genius)
 *   nut：自然语言理解工具包。[官网](https://github.com/pprett/nut)
+*   Quepy：将自然语言问题转换成数据库查询语言。[官网](https://github.com/machinalis/quepy)
+*   YAlign：句子对齐工具，从对照语料中抽取并行句子。[官网](https://github.com/machinalis/yalign)
+*   jieba：中文分词工具。[官网](https://github.com/fxsjy/jieba#jieba-1)
+*   PyStanfordDependencies ：将Penn Treebank树转换到Stanford依存树的Python接口。[官网](https://github.com/dmcc/PyStanfordDependencies)
+*   PyNLPl：Python的自然语言处理库。还包含用于解析常见NLP格式的工具，如FoLiA，以及ARPA语言模型，Moses短语，GIZA ++对齐等。[官网]     (https://github.com/proycon/pynlpl)
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#general-purpose-machine-learning-7)通用机器学习
 
