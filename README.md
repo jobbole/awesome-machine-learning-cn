@@ -376,6 +376,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Pyevolve：遗传算法框架。[官网](https://github.com/perone/Pyevolve)
 *   Caffe：考虑了代码清洁、可读性及速度的深度学习框架。[官网](http://caffe.berkeleyvision.org/)
 *   breze：深度及递归神经网络的程序库，基于Theano。[官网](https://github.com/breze-no-salt/breze)
+*   SimpleAI：实现了“人工智能现代方法”一书中描述的许多人工智能算法。它着重于提供一个易于使用的，文档良好的和经过测试的库。[官网](https://github.com/simpleai-team/simpleai)
+*   TensorFlow：用数据流图进行数值计算的开源软件库。[官网](https://github.com/tensorflow/tensorflow/)
+*   pydeep：Python深度学习。[官网](https://github.com/andersbll/deeppy)
+*   skflow：TensorFlow的简化界面，类似Scikit Learn。。[官网](https://github.com/google/skflow)
+
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#data-analysis--data-visualization-5)数据分析/数据可视化
 
