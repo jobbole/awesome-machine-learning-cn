@@ -62,11 +62,11 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   ecogg：[官网](https://code.google.com/p/encog-cpp/)。
 *   shark：[官网](http://image.diku.dk/shark/sphinx_pages/build/html/index.html)。
 
-## [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#closure)Closure
+## [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#clojure)Clojure
 
 #### 通用机器学习
 
-*   Closure Toolbox：Clojure语言库与工具的分类目录。[官网](http://www.clojure-toolbox.com/)
+*   Clojure Toolbox：Clojure语言库与工具的分类目录。[官网](http://www.clojure-toolbox.com/)
 
 ## [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#go)Go
 
