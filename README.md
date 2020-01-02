@@ -9,9 +9,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 我们要做什么？
 
 - 基于 awesome-machine-learning 资源列表，我们将对各个资源项进行编译整理。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[Apache OpenNLP：处理类似分词等常见任务的工具](http://hao.jobbole.com/apache-opennlp/)》
-  - 《[Mallet：NLP工具，支持文档分类、聚类、主题建模](http://hao.jobbole.com/mallet/ )》
+- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.importnew.com/)。可参考已整理的内容：
+  - 《[Apache OpenNLP：处理类似分词等常见任务的工具](http://hao.importnew.com/apache-opennlp/)》
+  - 《[Mallet：NLP工具，支持文档分类、聚类、主题建模](http://hao.importnew.com/mallet/ )》
 
 * * *
 
@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[toolate](http://www.jobbole.com/members/toolate)、[冰斌](http://hao.jobbole.com/author/libing1209/)、[云中游](http://hao.jobbole.com/author/tonyaaron/)、[Daetalus](http://hao.jobbole.com/author/daetalus/)、[赵叶宇](http://www.jobbole.com/members/nelsonzhao/)、You
+- 贡献者：[toolate](http://www.importnew.com/members/toolate)、[冰斌](http://hao.importnew.com/author/libing1209/)、[云中游](http://hao.importnew.com/author/tonyaaron/)、[Daetalus](http://hao.importnew.com/author/daetalus/)、[赵叶宇](http://www.importnew.com/members/nelsonzhao/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -44,7 +44,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * 整理超过 20 个资源后，可在伯乐在线上开通打赏；
 * 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
-* [奖励详情](http://hao.jobbole.com/rewards/)
+* [奖励详情](http://hao.importnew.com/rewards/)
 
 * * * -->
 
@@ -52,8 +52,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#compute-vision)计算机视觉
 
-*   [CCV](http://hao.jobbole.com/ccv/)：基于C语言/提供缓存/核心的机器视觉库，新颖的机器视觉库。[官网](https://github.com/liuliu/ccv)
-*   [OpenCV](http://hao.jobbole.com/opencv/)：它提供C++、C、Python、Java 以及 MATLAB接口。并支持Windows、Linux、Android 和 Mac OS操作系统。[官网](http://opencv.org/)
+*   [CCV](http://hao.importnew.com/ccv/)：基于C语言/提供缓存/核心的机器视觉库，新颖的机器视觉库。[官网](https://github.com/liuliu/ccv)
+*   [OpenCV](http://hao.importnew.com/opencv/)：它提供C++、C、Python、Java 以及 MATLAB接口。并支持Windows、Linux、Android 和 Mac OS操作系统。[官网](http://opencv.org/)
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#general-purpose-machine-learning)通用机器学习
 
@@ -105,7 +105,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Stanford Topic Modeling Toolbox：为社会科学家及其他希望分析数据集的人员提供的主题建模工具。[官网](http://nlp.stanford.edu/software/tmt/tmt-0.4/)
 *   Twitter Text Java：Java实现的推特文本处理库。[官网](https://github.com/twitter/twitter-text-java)
 *   MALLET：基于Java的统计自然语言处理、文档分类、聚类、主题建模、信息提取以及其他机器学习文本应用包。[官网](http://mallet.cs.umass.edu/) 
-*   OpenNLP：处理自然语言文本的机器学习工具包。[官网](http://hao.jobbole.com/apache-opennlp/)
+*   OpenNLP：处理自然语言文本的机器学习工具包。[官网](http://hao.importnew.com/apache-opennlp/)
 *   LingPipe：使用计算机语言学处理文本的工具包。[官网](http://alias-i.com/lingpipe/index.html)
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#general-purpose-machine-learning-3)通用机器学习
@@ -332,7 +332,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 #### 计算机视觉
 
-*   [SimpleCV](http://hao.jobbole.com/simplecv/)：开源计算机视觉框架，可以访问如OpenCV等高性能计算机视觉库使用Python编写，可以在Mac、Windows以及Ubuntu上运行。[官网](http://simplecv.org/)。
+*   [SimpleCV](http://hao.importnew.com/simplecv/)：开源计算机视觉框架，可以访问如OpenCV等高性能计算机视觉库使用Python编写，可以在Mac、Windows以及Ubuntu上运行。[官网](http://simplecv.org/)。
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#natural-language-processing-5)自然语言处理
 
@@ -377,8 +377,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Numba：Python的低级虚拟机JIT编译器，Cython and NumPy的开发者编写，供科学计算使用。[官网](http://numba.pydata.org/)
 *   NetworkX：为复杂网络使用的高效软件。[官网](https://networkx.github.io/)
 *   Pandas：这个库提供了高性能、易用的数据结构及数据分析工具。[官网](http://pandas.pydata.org/)
-*   [Open Mining](http://hao.jobbole.com/open-mining/)：Python中的商业智能工具（Pandas web接口）。[官网](https://github.com/avelino/mining)
-*   [PyMC](http://hao.jobbole.com/pymc/)：MCMC采样工具包。[官网](https://github.com/pymc-devs/pymc)
+*   [Open Mining](http://hao.importnew.com/open-mining/)：Python中的商业智能工具（Pandas web接口）。[官网](https://github.com/avelino/mining)
+*   [PyMC](http://hao.importnew.com/pymc/)：MCMC采样工具包。[官网](https://github.com/pymc-devs/pymc)
 *   zipline：Python的算法交易库。[官网](https://github.com/quantopian/zipline)
 *   PyDy：全名Python Dynamics，协助基于NumPy、SciPy、IPython以及 matplotlib的动态建模工作流。[官网](https://pydy.org/)
 *   SymPy：符号数学Python库。[官网](https://github.com/sympy/sympy)
