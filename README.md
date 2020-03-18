@@ -309,7 +309,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 #### [](https://github.com/josephmisiti/awesome-machine-learning#computer-vision-3)计算机视觉
 
 *   OpenCVDotNet：包装器，使.NET程序能使用OpenCV代码。[官网](https://code.google.com/p/opencvdotnet/)
-*   Emgu CV：跨平台的包装器，能在Windows、Linus、Mac OS X、iOS和Android上编译。[官网](http://www.emgu.com/wiki/index.php/Main_Page)
+*   Emgu CV：跨平台的包装器，能在Windows、Linux、Mac OS X、iOS和Android上编译。[官网](http://www.emgu.com/wiki/index.php/Main_Page)
 
 #### [](https://github.com/josephmisiti/awesome-machine-learning#natural-language-processing-6)自然语言处理
 
