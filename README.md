@@ -151,6 +151,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   LDA.js：供Node.js用的LDA主题建模工具。[官网](https://github.com/primaryobjects/lda)
 *   Learning.js：逻辑回归/c4.5决策树的JavaScript实现。[官网](https://github.com/yandongliu/learningjs)
 *   Machine Learning：Node.js的机器学习库。[官网](http://joonku.com/project/machine_learning)
+*   Machine Learning: 综合指南 [地点](https://www.scaler.com/blog/machine-learning-career/)
 *   Node-SVM：Node.js的支持向量机。[官网](https://github.com/nicolaspanel/node-svm)
 *   Brain：JavaScript实现的神经网络。[官网](https://github.com/harthur/brain)
 *   Bayesian-Bandit：贝叶斯强盗算法的实现，供Node.js及浏览器使用。[官网](https://github.com/omphalos/bayesian-bandit.js)
