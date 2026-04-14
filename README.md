@@ -207,6 +207,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   JuliaCon Presentations：Julia大会上的演示文稿。[官网](https://github.com/JuliaCon/presentations)
 *   SignalProcessing：Julia的信号处理工具。[官网](https://github.com/davidavdav/SignalProcessing)
 *   Images：Julia的图片库。[官网](https://github.com/timholy/Images.jl)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#matlab)
 
