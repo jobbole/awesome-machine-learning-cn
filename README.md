@@ -154,6 +154,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Node-SVM：Node.js的支持向量机。[官网](https://github.com/nicolaspanel/node-svm)
 *   Brain：JavaScript实现的神经网络。[官网](https://github.com/harthur/brain)
 *   Bayesian-Bandit：贝叶斯强盗算法的实现，供Node.js及浏览器使用。[官网](https://github.com/omphalos/bayesian-bandit.js)
+*   moxwebgpu：在浏览器里用 WebGPU 直接跑 GPU 计算和机器学习训练的零依赖 TypeScript 库，含 30+ 算子、自动微分，48 个端到端测试在 Chrome 软件渲染下也能跑绿。[官网](https://github.com/codecloud-dev/moxwebgpu)
 
 ## [](https://github.com/josephmisiti/awesome-machine-learning/blob/master/README.md#julia)Julia
 
